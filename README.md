@@ -118,7 +118,7 @@ Then, press `Load Behavior` on the top, and select `Manual Hand Eye Calibration`
 
 After this, you can press `Runtime Control` on the top, execution window will show:
 
-<center><img src="doc/resource/maunal_hand_eye_cali.png" alt="auto_hand_eye_calib_execute" style="width: 80%;"/></center>
+<center><img src="doc/resource/maunal_hand_eye_cali.png" alt="maunal_hand_eye_calib_execute" style="width: 80%;"/></center>
 
 Before press `Start Execution`, parameter `eye_in_hand` decide which calibration mode you want to use, 
 `calib_pose_num` means how many sample points you want,
