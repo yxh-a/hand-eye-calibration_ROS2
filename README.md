@@ -24,7 +24,7 @@ See the [ubuntu-docker](https://github.com/errrr0501/ubuntu_docker) on informati
 sudo apt install ros-$ROS_DISTRO--moveit
 
 # Clone this hand-eye-cliabtion package, flexbe_engine, flexbe_app, charuco_detector to your workspace
-git clone --recursive https://github.com/errrr0501/hand-eye-calibration_ROS2.git
+git clone --recursive https://github.com/tku-iarc/hand-eye-calibration_ROS2.git
 
 # build the workspace
 colcon build --symlink-install
