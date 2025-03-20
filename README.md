@@ -91,7 +91,7 @@ if you want to change resolution, need to do camera calibration again with the r
 
 - Then launch flexbe_app flexbe_full.launch.
 ```bash
-ros2 launch flexbe_app flexbe_full.launch
+ros2 launch flexbe_app flexbe_full.launch.py
 ```
 - Open charuco detector
 ```bash
